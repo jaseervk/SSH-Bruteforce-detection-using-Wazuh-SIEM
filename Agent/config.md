@@ -10,3 +10,8 @@ Add follwing rulues:
   <location>systemd</location>
 </localfile>
 ```
+
+## Restart Agent:
+```bash
+systemctl restart wazuh-agent
+```
